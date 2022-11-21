@@ -1,6 +1,7 @@
 package com.tolmachevsv;
 
 public class Candidate extends Person {
+
     private final String[][] listOfAnswers = {
             {"Cleaner", "QA Automation"},
             {"Java", "Pascal"},

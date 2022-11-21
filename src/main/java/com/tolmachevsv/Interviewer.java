@@ -1,6 +1,7 @@
 package com.tolmachevsv;
 
 public class Interviewer extends Person {
+
     String[] listOfQuestions = {
             "What position are you applying for?",
             "What PL do you need to know for this vacancy?",
